@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 const speak = function(arr){
     const newArray = [];
@@ -10,3 +11,13 @@ const speak = function(arr){
 
 const res = speak (['hello', 'world']);
 console.log(res);
+=======
+console.log('hello');
+
+function name(){
+  console.log('name');
+
+}
+
+name();
+>>>>>>> b1468c0757c65a49af0695b6993cc13dfce6824c
