@@ -9,6 +9,7 @@ const server = http.createServer( (req,res) => {
       <!doctype html>
       <body>
         <h1> ${p.upper(__dirname)} </h1>
+        <h1> ${p.lower(__dirname)} </h1>
         <p> parag </p>
       </body>
       `)
