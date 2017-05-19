@@ -9,5 +9,5 @@ const lower = (str) => {
 }
 
 module.exports = {
-  upper
+  upper, lower
 }
